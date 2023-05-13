@@ -14,9 +14,8 @@ MLheads's repository for HackUPC 2023
 Access to the Restb.ai dataset: https://restb-hackathon.s3.amazonaws.com/real_estate_dataset/hackupc2023_restbai__dataset.zip
 
 ## :computer: Technology Used
-- Technologies: `Domain.com`, `Streamlit`, `SHAP`
+- Technologies: `Domain.com`, `SHAP`, `Streamlit`
 - Language: `python`
 
-
 ## :dart: Wiki
-
+[Wiki](https://github.com/diaa-shalaby/HackUPC2023/wiki#documentation-on-technologies-used)
