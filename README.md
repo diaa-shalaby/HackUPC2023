@@ -6,7 +6,7 @@ Team MLheads' repo for the HackUPC Challenge 2023
 - [:question: What is our project](https://github.com/diaa-shalaby/HackUPC2023#question-What-is-our-project)
 - [:page_facing_up: What you can do](https://github.com/diaa-shalaby/HackUPC2023#page_facing_up-Downloads)
 - [:computer: Technology Used](https://github.com/diaa-shalaby/HackUPC2023#computer-Technology-Used)
-- [:dart: Note](https://github.com/diaa-shalaby/HackUPC2023#dart-Note)
+- [:dart: Note](https://github.com/diaa-shalaby/HackUPC2023#dart-Note-and-Wiki)
 
 ## :question: What is our project
 Our project uses the Restb.ai dataset to predict the price of a property based on its features and then how this price can be modified by adding other features onto it.
@@ -15,8 +15,8 @@ Our project uses the Restb.ai dataset to predict the price of a property based o
 Access to the Resb.ai dataset: https://restb-hackathon.s3.amazonaws.com/real_estate_dataset/hackupc2023_restbai__dataset.zip
 
 ## :computer: Technology Used
-- Language(s): `python`
-- Technologies: `Auth0`, `Streamlit`
+- Technologies: `Auth0`, `Streamlit`, `SHAP`
+- Language: `python`
 
-## :dart: Note
+## :dart: Note and Wiki
 Make sure to update .rev file with Auth0 credentials
