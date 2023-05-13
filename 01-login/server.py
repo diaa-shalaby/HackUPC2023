@@ -14,19 +14,19 @@ if ENV_FILE:
     load_dotenv(ENV_FILE)
 
 app = Flask(__name__)
-app.secret_key = env.get("APP_SECRET_KEY")
+app.secret_key = env.get("85171e997a4ead1fb23fd4195cef100c7bf10a0a447dfcff8e1f6216459a6182")
 
 
 oauth = OAuth(app)
 
 oauth.register(
     "auth0",
-    client_id=env.get("AUTH0_CLIENT_ID"),
-    client_secret=env.get("AUTH0_CLIENT_SECRET"),
+    client_id=env.get("oFTSaSb9YA4Ph0D97946JDjYadOu1P1M"),
+    client_secret=env.get("apUAWI6U4SlKKiqkgyDzhD-ASMxWpnrM5_FQl562gnsraFuztYdcg0w74lDqQJrM"),
     client_kwargs={
         "scope": "openid profile email",
     },
-    server_metadata_url=f'https://{env.get("AUTH0_DOMAIN")}/.well-known/openid-configuration',
+    server_metadata_url=f'https://{env.get("dev-lxvi50mmq0opomje.us.auth0.com")}/.well-known/openid-configuration',
 )
 
 
@@ -59,12 +59,12 @@ def logout():
     session.clear()
     return redirect(
         "https://"
-        + env.get("AUTH0_DOMAIN")
+        + env.get("dev-lxvi50mmq0opomje.us.auth0.com")
         + "/v2/logout?"
         + urlencode(
             {
                 "returnTo": url_for("home", _external=True),
-                "client_id": env.get("AUTH0_CLIENT_ID"),
+                "client_id": env.get("oFTSaSb9YA4Ph0D97946JDjYadOu1P1M"),
             },
             quote_via=quote_plus,
         )
