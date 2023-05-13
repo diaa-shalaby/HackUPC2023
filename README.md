@@ -1,4 +1,4 @@
-# HackUPC2023 ![](https://img.shields.io/badge/the-data-red)
+# HackUPC2023 ![](https://img.shields.io/badge/Hack-UPC-red)
 MLheads's repository for HackUPC 2023
 
 ## :scroll: Table of Contents
