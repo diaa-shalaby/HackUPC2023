@@ -1,6 +1,8 @@
 # HackUPC2023 ![](https://img.shields.io/badge/Hack-UPC-red)
 MLheads's repository for HackUPC 2023
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_red.svg)](https://mlheads.streamlit.app)
+
 ## :scroll: Table of Contents
 - [HackUPC2023](https://github.com/diaa-shalaby/HackUPC2023#HackUPC2023)
 - [:question: What is our project](https://github.com/diaa-shalaby/HackUPC2023#question-What-is-our-project)
