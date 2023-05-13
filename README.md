@@ -16,7 +16,7 @@ Access to the Resb.ai dataset: https://restb-hackathon.s3.amazonaws.com/real_est
 
 ## :computer: Technology Used
 - Language(s): `python`
-- Technologies: `Auth0`
+- Technologies: `Auth0`, `Streamlit`
 
 ## :dart: Note
 Make sure to update .rev file with Auth0 credentials
