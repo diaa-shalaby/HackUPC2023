@@ -27,4 +27,4 @@ Acceso al conjunto de datos Restb.ai: https://restb-hackathon.s3.amazonaws.com/r
 - Idioma: `python`
 
 ## :dart: Wiki
-[Wiki](https://github.com/diaa-shalaby/HackUPC2023/wiki/Wiki-(en-Espa%C3%B1ol)
+[Wiki](https://github.com/diaa-shalaby/HackUPC2023/wiki/Wiki-(en-Espa%C3%B1ol)#documentaci%C3%B3n-sobre-tecnolog%C3%ADas-utilizadas)
