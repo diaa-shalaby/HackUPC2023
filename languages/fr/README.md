@@ -10,7 +10,7 @@ Langues: <br/>
 ![maquette de restitution](https://github.com/diaa-shalaby/HackUPC2023/assets/73829218/7741beae-e41d-44f1-9006-562e631340d6)
 
 ## :scroll: Table des matières
-- [HackUPC2023](https://github.com/diaa-shalaby/HackUPC2023/blob/main/languages/fr/README.md)
+- [HackUPC2023](https://github.com/diaa-shalaby/HackUPC2023/blob/main/languages/fr/README.md#hackupc2023)
 - [:question: Quel est notre projet](https://github.com/diaa-shalaby/HackUPC2023/blob/main/languages/fr/README.md#question-quel-est-notre-projet)
 - [:page_facing_up: Téléchargements](https://github.com/diaa-shalaby/HackUPC2023/blob/main/languages/fr/README.md#page_facing_up-t%C3%A9l%C3%A9charger)
 - [:computer: Technologie utilisée](https://github.com/diaa-shalaby/HackUPC2023/blob/main/languages/fr/README.md#computer-technologie-utilis%C3%A9e)
