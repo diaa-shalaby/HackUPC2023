@@ -23,8 +23,9 @@ Our project uses the Restb.ai dataset to predict the price of a property based o
 Access to the Restb.ai dataset: https://restb-hackathon.s3.amazonaws.com/real_estate_dataset/hackupc2023_restbai__dataset.zip
 
 ## :computer: Technology Used
-- Technologies: `Domain.com`, `SHAP`, `Streamlit`
-- Language: `python`
+- Technologies: `Domain.com`, `SHAP`, `Streamlit`, `Counterfactual`
+- Datasets: `Restb.ai's API`, `OpenAI's API`, `OpenStreetMap`
+- Languages: `Python`, `HTML`, `CSS`
 
 ## :dart: Wiki
 - [Wiki (in English)](https://github.com/diaa-shalaby/HackUPC2023/wiki/Wiki-(in-English)#documentation-on-technologies-used)
