@@ -27,4 +27,4 @@ Accès au jeu de données Restb.ai: https://restb-hackathon.s3.amazonaws.com/rea
 - Langage: `python`
 
 ## :dart: Wiki
-[Wiki](https://github.com/diaa-shalaby/HackUPC2023/wiki#documentation-on-technologies-used)
+[Wiki](https://github.com/diaa-shalaby/HackUPC2023/wiki/Wiki-(en-Fran%C3%A7ais))
