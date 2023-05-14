@@ -3,7 +3,7 @@ Repositorio de MLheads para HackUPC 2023 <br/>
 Idiomas: <br/>
 [![Inglés](https://img.shields.io/badge/Inglés-🇬🇧-blue)](https://github.com/diaa-shalaby/HackUPC2023)
 [![Español](https://img.shields.io/badge/Español-🇪🇸-red)](https://github.com/diaa-shalaby/HackUPC2023/blob/main/languages/es/README.md)
-<!-- [![Francés](https://img.shields.io/badge/Francés-🇫🇷-white)](languages/fr/README.md) -->
+[![Francés](https://img.shields.io/badge/Francés-🇫🇷-white)](https://github.com/diaa-shalaby/HackUPC2023/blob/main/languages/fr/README.md)
 
 [![Aplicación Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_red.svg)](https://mlheads.streamlit.app)
 
