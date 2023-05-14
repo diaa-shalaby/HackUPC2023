@@ -3,6 +3,8 @@ MLheads's repository for HackUPC 2023
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_red.svg)](https://mlheads.streamlit.app)
 
+![re-estate mockup](https://github.com/diaa-shalaby/HackUPC2023/assets/73829218/7741beae-e41d-44f1-9006-562e631340d6)
+
 ## :scroll: Table of Contents
 - [HackUPC2023](https://github.com/diaa-shalaby/HackUPC2023#HackUPC2023)
 - [:question: What is our project](https://github.com/diaa-shalaby/HackUPC2023#question-What-is-our-project)
