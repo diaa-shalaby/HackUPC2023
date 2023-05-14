@@ -15,6 +15,7 @@ Langues: <br/>
 - [:page_facing_up: Téléchargements](https://github.com/diaa-shalaby/HackUPC2023/blob/main/languages/fr/README.md#page_facing_up-t%C3%A9l%C3%A9charger)
 - [:computer: Technologie utilisée](https://github.com/diaa-shalaby/HackUPC2023/blob/main/languages/fr/README.md#computer-technologie-utilis%C3%A9e)
 - [:dart: Wiki](https://github.com/diaa-shalaby/HackUPC2023/blob/main/languages/fr/README.md#dart-wiki)
+- [🤗 MLheads 🤯](https://github.com/diaa-shalaby/HackUPC2023/blob/main/languages/fr/README.md#-mlheads-)
 
 ## :question: Quel est notre projet
 - Notre projet utilise le jeu de données Restb.ai pour prédire le prix d'un bien en fonction de ses caractéristiques (taille en mètres carrés, nombre de pièces, ...) puis comment ce prix peut être modifié en y ajoutant d'autres caractéristiques.

@@ -15,6 +15,7 @@ Languages: <br/>
 - [:page_facing_up: Downloads](https://github.com/diaa-shalaby/HackUPC2023/blob/main/README.md#page_facing_up-downloads)
 - [:computer: Technology Used](https://github.com/diaa-shalaby/HackUPC2023/blob/main/README.md#computer-Technology-Used)
 - [:dart: Wiki](https://github.com/diaa-shalaby/HackUPC2023/blob/main/README.md#dart-Wiki)
+- [🤗 MLheads 🤯](https://github.com/diaa-shalaby/HackUPC2023#-mlheads-)
 
 ## :question: What is our project
 - Our project uses the Restb.ai dataset to predict the price of a property based on its features (size in square meters, number of rooms, ...) and then how this price can be modified by adding other features to it.
