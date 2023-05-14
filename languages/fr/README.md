@@ -17,7 +17,12 @@ Langues: <br/>
 - [:dart: Wiki](https://github.com/diaa-shalaby/HackUPC2023/blob/main/languages/fr/README.md#dart-wiki)
 
 ## :question: Quel est notre projet
-Notre projet utilise l'ensemble de données Restb.ai pour prédire le prix d'une propriété en fonction de ses caractéristiques, puis comment ce prix peut être modifié en y ajoutant d'autres caractéristiques.
+- Notre projet utilise le jeu de données Restb.ai pour prédire le prix d'un bien en fonction de ses caractéristiques (taille en mètres carrés, nombre de pièces, ...) puis comment ce prix peut être modifié en y ajoutant d'autres caractéristiques.
+- Les utilisateurs peuvent insérer leurs propres fonctionnalités pour obtenir une fourchette de prix basée sur le modèle AI
+- Une carte thermique des prix moyens par quartier peut être tracée dans l'onglet "_Value Heatmap_"
+- Vous pouvez également explorer les fonctionnalités pertinentes et les méthodes d'IA explicables avec une barre latérale interactive
+- Générer le titre et le texte de la propriété immobilière à l'aide de l'API d'OpenAI
+- La vente moyenne par mois (€) dans chaque région d'Espagne est indiquée dans le dernier onglet
 
 ## :page_facing_up: Télécharger
 Accès au jeu de données Restb.ai: https://restb-hackathon.s3.amazonaws.com/real_estate_dataset/hackupc2023_restbai__dataset.zip
@@ -31,3 +36,9 @@ Accès au jeu de données Restb.ai: https://restb-hackathon.s3.amazonaws.com/rea
 - [Wiki (en Anglais)](https://github.com/diaa-shalaby/HackUPC2023/wiki/Wiki-(in-English)#documentation-on-technologies-used)
 - [Wiki (en Espagnol)](https://github.com/diaa-shalaby/HackUPC2023/wiki/Wiki-(en-Espa%C3%B1ol)#documentaci%C3%B3n-sobre-tecnolog%C3%ADas-utilizadas)
 - [Wiki (en Français)](https://github.com/diaa-shalaby/HackUPC2023/wiki/Wiki-(en-Fran%C3%A7ais)#documentation-sur-les-technologies-utilis%C3%A9es)
+
+## 🤗 MLheads 🤯
+- Diaaeldin Shalaby (_Egypte_)
+- Lluis Llull Riera (_Espagne_)
+- Gabriel Orbe (_États-Unis_)
+- Nathanya Queby (_Indonésie_)
