@@ -10,11 +10,11 @@ Idiomas: <br/>
 ![restablecer maqueta](https://github.com/diaa-shalaby/HackUPC2023/assets/73829218/7741beae-e41d-44f1-9006-562e631340d6)
 
 ## :scroll: Índice
-- [HackUPC2023](https://github.com/diaa-shalaby/HackUPC2023#HackUPC2023)
-- [:question: Cuál es nuestro proyecto](https://github.com/diaa-shalaby/HackUPC2023#pregunta-Cuál-es-nuestro-proyecto)
-- [:page_facing_up: Descargas](https://github.com/diaa-shalaby/HackUPC2023#page_facing_up-Descargas)
-- [:computer: Tecnología utilizada](https://github.com/diaa-shalaby/HackUPC2023#computer-Tecnología-utilizada)
-- [:dart: Wiki](https://github.com/diaa-shalaby/HackUPC2023#dart-Wiki)
+- [HackUPC2023](https://github.com/diaa-shalaby/HackUPC2023/blob/main/languages/es/README.md#hackupc2023)
+- [:question: Cuál es nuestro proyecto](https://github.com/diaa-shalaby/HackUPC2023/blob/main/languages/es/README.md#question-cu%C3%A1l-es-nuestro-proyecto)
+- [:page_facing_up: Descargas](https://github.com/diaa-shalaby/HackUPC2023/blob/main/languages/es/README.md#page_facing_up-descargar)
+- [:computer: Tecnología utilizada](https://github.com/diaa-shalaby/HackUPC2023/blob/main/languages/es/README.md#computer-tecnolog%C3%ADa-utilizada)
+- [:dart: Wiki](https://github.com/diaa-shalaby/HackUPC2023/blob/main/languages/es/README.md#dart-wiki)
 
 ## :question: Cuál es nuestro proyecto
 Nuestro proyecto utiliza el conjunto de datos Restb.ai para predecir el precio de una propiedad en función de sus características y luego cómo se puede modificar este precio al agregarle otras características.
