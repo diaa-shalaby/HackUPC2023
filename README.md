@@ -1,5 +1,8 @@
-# HackUPC2023 ![](https://img.shields.io/badge/Hack-UPC-red)
+# HackUPC2023 
+<!-- ![](https://img.shields.io/badge/Hack-UPC-red) -->
 MLheads's repository for HackUPC 2023
+[![English](https://img.shields.io/badge/Language-English-blue)](README.md)
+[![Español](https://img.shields.io/badge/Lenguaje-:es:-blue)](_i18n/es/README.md)
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_red.svg)](https://mlheads.streamlit.app)
 
@@ -24,6 +27,3 @@ Access to the Restb.ai dataset: https://restb-hackathon.s3.amazonaws.com/real_es
 
 ## :dart: Wiki
 [Wiki](https://github.com/diaa-shalaby/HackUPC2023/wiki#documentation-on-technologies-used)
-
-[![English](https://img.shields.io/badge/Language-English-blue)](README.md)
-[![Español](https://img.shields.io/badge/Lenguaje-Español-blue)](_i18n/es/README.md)
