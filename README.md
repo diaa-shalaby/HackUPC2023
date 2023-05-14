@@ -7,7 +7,7 @@ Languages: <br/>
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_red.svg)](https://mlheads.streamlit.app)
 
-![re-estate mockup](https://github.com/diaa-shalaby/HackUPC2023/assets/73829218/7741beae-e41d-44f1-9006-562e631340d6)
+![image](https://github.com/diaa-shalaby/HackUPC2023/assets/95147025/652993b2-c2b1-4d95-861e-ee7c2750f32f)
 
 ## :scroll: Table of Contents
 - [HackUPC2023](https://github.com/diaa-shalaby/HackUPC2023/blob/main/README.md#hackupc2023)
