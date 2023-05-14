@@ -1,8 +1,9 @@
 # HackUPC2023 
 <!-- ![](https://img.shields.io/badge/Hack-UPC-red) -->
 MLheads's repository for HackUPC 2023
-[![English](https://img.shields.io/badge/Language-English-blue)](README.md)
-[![Español](https://img.shields.io/badge/Lenguaje-:es:-blue)](_i18n/es/README.md)
+Languages:
+[![English](https://img.shields.io/badge/English-🇬🇧-blue)](README.md)
+[![Español](https://img.shields.io/badge/Español-🇪🇸-blue)](_i18n/es/README.md)
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_red.svg)](https://mlheads.streamlit.app)
 
