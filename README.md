@@ -4,6 +4,7 @@ MLheads's repository for HackUPC 2023 <br/>
 Languages: <br/>
 [![English](https://img.shields.io/badge/English-🇬🇧-blue)](README.md)
 [![Spanish](https://img.shields.io/badge/Spanish-🇪🇸-red)](languages/es/README.md)
+[![French](https://img.shields.io/badge/French-🇫🇷-white)](languages/fr/README.md)
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_red.svg)](https://mlheads.streamlit.app)
 
