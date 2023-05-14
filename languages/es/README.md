@@ -1,10 +1,9 @@
 ## HackUPC2023
-<!-- ![](https://img.shields.io/badge/Hack-UPC-red) -->
 Repositorio de MLheads para HackUPC 2023 <br/>
 Idiomas: <br/>
-[![Inglés](https://img.shields.io/badge/Inglés-🇬🇧-blue)](HackUPC2023/README.md)
-[![Español](https://img.shields.io/badge/Español-🇪🇸-red)](languages/es/README.md)
-[![Francés](https://img.shields.io/badge/Francés-🇫🇷-white)](languages/fr/README.md)
+[![Inglés](https://img.shields.io/badge/Inglés-🇬🇧-blue)](https://github.com/diaa-shalaby/HackUPC2023/README.md)
+[![Español](https://img.shields.io/badge/Español-🇪🇸-red)](https://github.com/diaa-shalaby/HackUPC2023/blob/main/languages/es/README.md)
+<!-- [![Francés](https://img.shields.io/badge/Francés-🇫🇷-white)](languages/fr/README.md) -->
 
 [![Aplicación Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_red.svg)](https://mlheads.streamlit.app)
 
@@ -25,7 +24,7 @@ Acceso al conjunto de datos Restb.ai: https://restb-hackathon.s3.amazonaws.com/r
 
 ## :computer: Tecnología utilizada
 - Tecnologías: `Domain.com`, `SHAP`, `Streamlit`
-- Idioma: `pitón`
+- Idioma: `python`
 
 ## :dart: Wiki
 [Wiki](https://github.com/diaa-shalaby/HackUPC2023/wiki#documentation-on-technologies-used)

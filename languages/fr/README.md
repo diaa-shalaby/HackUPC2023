@@ -1,5 +1,4 @@
 # HackUPC2023
-<!-- ![](https://img.shields.io/badge/Hack-UPC-red) -->
 Dépôt de MLheads pour HackUPC 2023 <br/>
 Langues: <br/>
 [![Anglais](https://img.shields.io/badge/Anglais-🇬🇧-blue)](HackUPC2023/README.md)
