@@ -24,3 +24,6 @@ Access to the Restb.ai dataset: https://restb-hackathon.s3.amazonaws.com/real_es
 
 ## :dart: Wiki
 [Wiki](https://github.com/diaa-shalaby/HackUPC2023/wiki#documentation-on-technologies-used)
+
+[![English](https://img.shields.io/badge/Language-English-blue)](README.md)
+[![Español](https://img.shields.io/badge/Lenguaje-Español-blue)](_i18n/es/README.md)
