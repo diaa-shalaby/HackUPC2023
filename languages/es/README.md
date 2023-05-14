@@ -2,8 +2,8 @@
 <!-- ![](https://img.shields.io/badge/Hack-UPC-red) -->
 Repositorio de MLheads para HackUPC 2023 <br/>
 Idiomas: <br/>
-[![Inglés](https://img.shields.io/badge/English-🇬🇧-blue)](README.md)
-[![Español](https://img.shields.io/badge/Español-🇪🇸-blue)](_i18n/es/README.md)
+[![Inglés](https://img.shields.io/badge/English-🇬🇧-blue)](root/README.md)
+[![Español](https://img.shields.io/badge/Español-🇪🇸-blue)](languages/es/README.md)
 
 [![Aplicación Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_red.svg)](https://mlheads.streamlit.app)
 
