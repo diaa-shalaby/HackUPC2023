@@ -16,9 +16,9 @@ Idiomas: <br/>
 - [:computer: Tecnología utilizada](https://github.com/diaa-shalaby/HackUPC2023/blob/main/languages/es/README.md#computer-tecnolog%C3%ADa-utilizada)
 - [:dart: Wiki](https://github.com/diaa-shalaby/HackUPC2023/blob/main/languages/es/README.md#dart-wiki)
 
-## :question: Cuál es nuestro proyecto
-- Nuestro proyecto utiliza el conjunto de datos Restb.ai para predecir el precio de una propiedad en función de sus características (tamaño en metros cuadrados, número de habitaciones, ...) y luego cómo se puede modificar este precio al agregarle otras características.
-- Los usuarios pueden insertar sus propias funciones para obtener un rango de precios basado en el modelo de IA
+## :question: Que es nuestro proyecto
+- Nuestro proyecto utiliza el conjunto de datos proporionado por Restb.ai para predecir el precio de una propiedad en función de sus características (tamaño en metros cuadrados, número de habitaciones, ...) y luego cómo  afectas sus características a la predicción y como se puede modificar el precio al modificar y agregarle otras características.
+- Los usuarios pueden insertar las características de sus propias viviendas para obtener un rango de precios basado en el modelo de IA
 - Se puede trazar un mapa de calor de los precios promedio por vecindario en la pestaña "_Mapa de calor de valor_"
 - También puede explorar las características relevantes y los métodos explicables de IA con una barra lateral interactiva
 - Genere título y texto para la propiedad inmobiliaria utilizando la API de OpenAI
@@ -28,7 +28,7 @@ Idiomas: <br/>
 Acceso al conjunto de datos Restb.ai: https://restb-hackathon.s3.amazonaws.com/real_estate_dataset/hackupc2023_restbai__dataset.zip
 
 ## :computer: Tecnología utilizada
-- Tecnologías: `Domain.com`, `SHAP`, `Streamlit`, `Counterfactual`
+- Tecnologías: `Domain.com`, `SHAP`, `Streamlit`, `Counterfactual`, `Git`
 - Conjuntos de datos: `Restb.ai's API`, `OpenAI's API`, `OpenStreetMap`
 - Idiomas: `Python`, `HTML`, `CSS`
 
@@ -39,6 +39,6 @@ Acceso al conjunto de datos Restb.ai: https://restb-hackathon.s3.amazonaws.com/r
 
 ## 🤗 MLheads 🤯
 - Diaaeldin Shalaby (_Egipto_)
-- Lluis Llull Riera (_España_)
+- Lluís Llull Riera (_España_)
 - Gabriel Orbe (_Estados Unidos_)
 - Nathanya Queby (_Indonesia_)

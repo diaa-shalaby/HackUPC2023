@@ -28,7 +28,7 @@ Languages: <br/>
 Access to the Restb.ai dataset: https://restb-hackathon.s3.amazonaws.com/real_estate_dataset/hackupc2023_restbai__dataset.zip
 
 ## :computer: Technology Used
-- Technologies: `Domain.com`, `SHAP`, `Streamlit`, `Counterfactual`
+- Technologies: `Domain.com`, `SHAP`, `Streamlit`, `Counterfactual`, `Git`
 - Datasets: `Restb.ai's API`, `OpenAI's API`, `OpenStreetMap`
 - Languages: `Python`, `HTML`, `CSS`
 
