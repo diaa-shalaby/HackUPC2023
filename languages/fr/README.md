@@ -2,7 +2,7 @@
 <!-- ![](https://img.shields.io/badge/Hack-UPC-red) -->
 Dépôt de MLheads pour HackUPC 2023 <br/>
 Langues: <br/>
-[![Anglais](https://img.shields.io/badge/Anglais-🇬🇧-blue)](root/README.md)
+[![Anglais](https://img.shields.io/badge/Anglais-🇬🇧-blue)](HackUPC2023/README.md)
 [![Espagnol](https://img.shields.io/badge/Espagnol-🇪🇸-red)](languages/es/README.md)
 [![Français](https://img.shields.io/badge/Français-🇫🇷-white)](languages/fr/README.md)
 
