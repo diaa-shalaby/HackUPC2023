@@ -1,7 +1,7 @@
 # HackUPC2023 
 <!-- ![](https://img.shields.io/badge/Hack-UPC-red) -->
-MLheads's repository for HackUPC 2023
-Languages:
+MLheads's repository for HackUPC 2023 <br/>
+Languages: <br/>
 [![English](https://img.shields.io/badge/English-🇬🇧-blue)](README.md)
 [![Español](https://img.shields.io/badge/Español-🇪🇸-blue)](_i18n/es/README.md)
 
