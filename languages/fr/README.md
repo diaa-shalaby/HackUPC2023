@@ -1,7 +1,7 @@
 # HackUPC2023
 Dépôt de MLheads pour HackUPC 2023 <br/>
 Langues: <br/>
-[![Anglais](https://img.shields.io/badge/Anglais-🇬🇧-blue)](https://github.com/diaa-shalaby/HackUPC2023)
+[![Anglais](https://img.shields.io/badge/Anglais-🇬🇧-blue)](https://github.com/diaa-shalaby/HackUPC2023/blob/main/README.md)
 [![Espagnol](https://img.shields.io/badge/Espagnol-🇪🇸-red)](https://github.com/diaa-shalaby/HackUPC2023/blob/main/languages/es/README.md)
 [![Français](https://img.shields.io/badge/Français-🇫🇷-white)](https://github.com/diaa-shalaby/HackUPC2023/blob/main/languages/fr/README.md)
 

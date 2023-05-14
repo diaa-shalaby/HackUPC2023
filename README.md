@@ -1,7 +1,7 @@
 # HackUPC2023 
 MLheads's repository for HackUPC 2023 <br/>
 Languages: <br/>
-[![English](https://img.shields.io/badge/English-🇬🇧-blue)](https://github.com/diaa-shalaby/HackUPC2023)
+[![English](https://img.shields.io/badge/English-🇬🇧-blue)](https://github.com/diaa-shalaby/HackUPC2023/blob/main/README.md)
 [![Spanish](https://img.shields.io/badge/Spanish-🇪🇸-red)](https://github.com/diaa-shalaby/HackUPC2023/blob/main/languages/es/README.md)
 [![French](https://img.shields.io/badge/French-🇫🇷-white)](https://github.com/diaa-shalaby/HackUPC2023/blob/main/languages/fr/README.md)
 
@@ -10,11 +10,11 @@ Languages: <br/>
 ![re-estate mockup](https://github.com/diaa-shalaby/HackUPC2023/assets/73829218/7741beae-e41d-44f1-9006-562e631340d6)
 
 ## :scroll: Table of Contents
-- [HackUPC2023](https://github.com/diaa-shalaby/HackUPC2023#HackUPC2023)
-- [:question: What is our project](https://github.com/diaa-shalaby/HackUPC2023#question-What-is-our-project)
-- [:page_facing_up: Downloads](https://github.com/diaa-shalaby/HackUPC2023#page_facing_up-Downloads)
-- [:computer: Technology Used](https://github.com/diaa-shalaby/HackUPC2023#computer-Technology-Used)
-- [:dart: Wiki](https://github.com/diaa-shalaby/HackUPC2023#dart-Wiki)
+- [HackUPC2023](https://github.com/diaa-shalaby/HackUPC2023/blob/main/README.md#hackupc2023)
+- [:question: What is our project](https://github.com/diaa-shalaby/HackUPC2023/blob/main/README.md#hackupc2023)
+- [:page_facing_up: Downloads](https://github.com/diaa-shalaby/HackUPC2023/blob/main/README.md#page_facing_up-downloads)
+- [:computer: Technology Used](https://github.com/diaa-shalaby/HackUPC2023/blob/main/README.md#computer-Technology-Used)
+- [:dart: Wiki](https://github.com/diaa-shalaby/HackUPC2023/blob/main/README.md#dart-Wiki)
 
 ## :question: What is our project
 Our project uses the Restb.ai dataset to predict the price of a property based on its features and then how this price can be modified by adding other features onto it.
