@@ -11,20 +11,20 @@ Idiomas: <br/>
 
 ## :scroll: Índice
 - [HackUPC2023](https://github.com/diaa-shalaby/HackUPC2023#HackUPC2023)
-- [:pregunta: ¿Cuál es nuestro proyecto](https://github.com/diaa-shalaby/HackUPC2023#pregunta-Cuál-es-nuestro-proyecto)
+- [:question: ¿Cuál es nuestro proyecto](https://github.com/diaa-shalaby/HackUPC2023#pregunta-Cuál-es-nuestro-proyecto)
 - [:page_facing_up: Descargas](https://github.com/diaa-shalaby/HackUPC2023#page_facing_up-Descargas)
-- [:computadora: Tecnología utilizada](https://github.com/diaa-shalaby/HackUPC2023#computer-Technology-Used)
-- [:dardo: Wiki](https://github.com/diaa-shalaby/HackUPC2023#dart-Wiki)
+- [:computer: Tecnología utilizada](https://github.com/diaa-shalaby/HackUPC2023#computer-Technology-Used)
+- [:dart: Wiki](https://github.com/diaa-shalaby/HackUPC2023#dart-Wiki)
 
-## :pregunta: ¿Cuál es nuestro proyecto?
+## :question: ¿Cuál es nuestro proyecto?
 Nuestro proyecto utiliza el conjunto de datos Restb.ai para predecir el precio de una propiedad en función de sus características y luego cómo se puede modificar este precio al agregarle otras características.
 
 ## :page_facing_up: Descargar
 Acceso al conjunto de datos Restb.ai: https://restb-hackathon.s3.amazonaws.com/real_estate_dataset/hackupc2023_restbai__dataset.zip
 
-## :computadora: Tecnología utilizada
+## :computer: Tecnología utilizada
 - Tecnologías: `Domain.com`, `SHAP`, `Streamlit`
 - Idioma: `pitón`
 
-## :dardo: Wiki
+## :dart: Wiki
 [Wiki](https://github.com/diaa-shalaby/HackUPC2023/wiki#documentation-on-technologies-used)
